@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **sonadukane18/sonadukane18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dukanesona1868@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a Photographer 📸 and Creative Enthusiast.
--->
+  
