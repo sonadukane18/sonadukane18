@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Automation using ML .
+- 🔭 I’m currently working on Automation using Python and ML .
   
 - 🌱 I’m currently learning Frontend Frameworks, Machine Learning.
  
