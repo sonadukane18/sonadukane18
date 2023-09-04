@@ -10,7 +10,7 @@
   
 - 🤔 I’m looking for help with Python Automation and Machine Learning .
  
-- 💬 Ask me about Python, Java, HTML, CSS, JS, React.
+- 💬 Ask me about Python, Java, C, HTML, CSS, JS, SQL.
   
 - 📫 How to reach me: dukanesona1868@gmail.com
 - 😄 Pronouns: She/Her
