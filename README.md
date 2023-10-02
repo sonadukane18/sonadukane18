@@ -15,5 +15,5 @@
 - 📫 How to reach me: dukanesona1868@gmail.com
 - 😄 Pronouns: She/Her
   
-- ⚡ Fun fact: I'm a Photographer 📸 and Creative Enthusiast.
+- ⚡ Fun fact: I'm a Photographer 📸 and a Creative Enthusiast.
   
