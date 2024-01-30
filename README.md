@@ -10,7 +10,7 @@
   
 - 🤔 Seeking guidance on Python Automation, Machine Learning, and DevOps.
  
-- 💬 Ask me about : C, Java, Python, PHP, SQL, Web Dev.
+- 💬 Ask me about : C, Java, Python, PHP, SQL, Web Dev, Devops.
   
 - 📫 How to reach me: dukanesona1868@gmail.com
   
