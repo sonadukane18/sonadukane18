@@ -16,5 +16,7 @@
   
 - 😄 Pronouns: She/Her
   
-- ⚡ Fun fact: Behind the lens as a Photographer 📸 and fueled by a passion for creativity.
+- ⚡ Fun fact: Behind the lens as a Photographer 📸 and fueled by a passion for creativity :shipit:
+
+
   
