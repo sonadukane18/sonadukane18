@@ -8,7 +8,7 @@
  
 - 👯 Open to collaborating on exciting Frontend, Python/ML development, and DevOps projects.
   
-- 🤔 Seeking guidance on Python, Machine Learning, DevOps and AWS.
+- 🤔 Seeking guidance on Machine Learning, DevOps and AWS.
  
 - 💬 Ask me about : C, Java, Python, PHP, SQL, Web Dev, DevOps.
   
