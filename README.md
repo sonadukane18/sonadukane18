@@ -10,7 +10,7 @@
   
 - 🤔 Seeking guidance on Machine Learning, DevOps and AWS.
  
-- 💬 Ask me about : C, Java, Python, PHP, SQL, Web Dev, DevOps.
+- 💬 Ask me about : Java, Python, PHP, SQL, Web Dev, DevOps.
   
 - 📫 How to reach me: dukanesona1868@gmail.com
   
