@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Python and ML.
   
-- 🌱 Learning Frontend Frameworks, Machine Learning and DevOps Practices.
+- 🌱 Learning Machine Learning, Cloud and DevOps Practices.
  
 - 👯 Open to collaborating on exciting Frontend, Python/ML development, and DevOps projects.
   
