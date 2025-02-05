@@ -2,13 +2,13 @@
 
 
 
-- 🔭 I’m currently working on Python and ML.
+- 🔭 I’m currently working on Cloud and DevOps.
   
-- 🌱 Learning Machine Learning, Cloud and DevOps Practices.
+- 🌱 Learning Fullstack Development, Cloud and DevOps Practices.
  
-- 👯 Open to collaborating on exciting Frontend, Python/ML development, and DevOps projects.
+- 👯 Open to collaborating on exciting Frontend, Python development, and DevOps projects.
   
-- 🤔 Seeking guidance on Machine Learning, DevOps and AWS.
+- 🤔 Seeking guidance on Fullstack, DevOps and Cloud.
  
 - 💬 Ask me about : Java, Python, PHP, SQL, Web Dev, DevOps.
   
