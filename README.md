@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on Cloud and DevOps.
   
-- 🌱 Learning Fullstack Development, Cloud and DevOps Practices.
+- 🌱 Learning Fullstack Development, Cloud Practices.
  
 - 👯 Open to collaborating on exciting Frontend, Python development, and DevOps projects.
   
-- 🤔 Seeking guidance on Fullstack, DevOps and Cloud.
+- 🤔 Seeking guidance on Fullstack and Cloud Projects.
  
 - 💬 Ask me about : Java, Python, PHP, SQL, Web Dev, DevOps.
   
