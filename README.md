@@ -1,22 +1,42 @@
-### Hi there 👋
+## What interests me isn’t just systems, but the architectures and ecosystems they operate within.
 
+I build and work with **Cloud & DevOps systems**, focusing on **automation, scalability, and reliability**.
 
+My work includes:
+- Designing and implementing **CI/CD pipelines**
+- Deploying applications using **Docker & Kubernetes**
+- Building and managing systems on **AWS**
+---
 
-- 🔭 I’m currently working on Cloud and DevOps.
-  
-- 🌱 Learning Fullstack Development, Cloud Practices.
- 
-- 👯 Open to collaborating on exciting Frontend, Python development, and DevOps projects.
-  
-- 🤔 Seeking guidance on Fullstack and Cloud Projects.
- 
-- 💬 Ask me about : Java, Python, PHP, SQL, Web Dev, DevOps.
-  
-- 📫 How to reach me: dukanesona1868@gmail.com
-  
-- 😄 Pronouns: She/Her
-  
-- ⚡ Fun fact: Behind the lens as a Photographer 📸 and fueled by a passion for creativity !
+## ⚙️ Current Focus
 
+- Automation workflows & **AI-integrated pipelines**
+- **Security-aware system design**
+- Building **end-to-end scalable systems**
+---
 
-  
+## 🧩 Tech Stack
+
+**Cloud & DevOps:**  
+AWS • Docker • Kubernetes • Terraform • Jenkins • CI/CD  
+
+**Programming & Systems:**  
+Python • Linux • JavaScript  
+
+**Web & Databases:**  
+React • Flask • SQL • MongoDB  
+
+---
+
+## ⚡ Exploration
+
+I experiment with:
+- **n8n workflows** (automation pipelines)
+- **GitHub ↔ Notion integrations (MCP)**
+- **AI-driven systems**
+
+---
+
+## 📫 Connect
+
+Email: dukanesona1868@gmail.com
