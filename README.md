@@ -1,26 +1,14 @@
-# Hi there 👋 I'm Sona Dukane
----
-What interests me isn’t just systems, but the **architectures and ecosystems they operate within**.  
-I build Cloud & DevOps systems that **scale, automate, and connect**.
+Hi there 👋 
+🔭 I’m currently working on Cloud and DevOps. 
 
----
+🌱 Learning Fullstack Development, Cloud Practices. 
 
-## 🔹 What I Build
-- **CI/CD pipelines** & automation workflows  
-- **Containerized applications** with Docker & Kubernetes  
-- **Cloud infrastructure** and deployment on AWS  
-- **AI-integrated setups** and security-aware systems  
----
+👯 Open to collaborating on exciting Frontend, Python development, and DevOps projects. 
 
-## 🔹 Tech Stack
-**Cloud & DevOps:** AWS • Docker • Kubernetes • Terraform • Jenkins • CI/CD  
-**Programming & Systems:** Python • Linux • JavaScript  
-**Web & Databases:** React • Flask • SQL • MongoDB  
+🤔 Seeking guidance on Fullstack and Cloud Projects. 💬 Ask me about : Java, Python, PHP, SQL, Web Dev, DevOps. 
 
----
+📫 How to reach me: dukanesona1868@gmail.com 
 
-## 🔹 Fun Fact
-📸 Photographer & design enthusiast – landing pages, web interfaces, animated presentations, and system flows.
+😄 Pronouns: She/Her 
 
----
-📫 Connect: dukanesona1868@gmail.com | [LinkedIn](https://www.linkedin.com/in/sonal-dukane-b7475a2b4)
+⚡ Fun fact: Behind the lens as a Photographer 📸 and fueled by a passion for creativity !
