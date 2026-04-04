@@ -1,4 +1,4 @@
-Hey 👋, I’m Sona Dukane
+Hey 👋, I’m Sona...
 
 What fascinates me isn’t just code or servers—it’s the **architectures and ecosystems** where they live.  
 
@@ -9,11 +9,11 @@ What fascinates me isn’t just code or servers—it’s the **architectures and
 - AI-driven pipelines & **security-aware systems**
 
 🧩 Tech Stack
-*Programming & Systems:* Python • Linux • JavaScript  
-*Web & Databases:* React • Flask • SQL • MongoDB  
-*Cloud & DevOps:* AWS • Docker • Kubernetes • Terraform • Jenkins • CI/CD  
+- Programming & Systems: Python • Linux • JavaScript  
+- Web & Databases: React • Flask • SQL • MongoDB  
+- Cloud & DevOps: AWS • Docker • Kubernetes • Terraform • Jenkins • CI/CD  
 
-⚡ A Bit More About Me
+⚡ A Bit More About Me..
 I also create **technical content on Cloud, DevOps, AI, and Cybersecurity**, breaking down complex concepts into **clear, practical insights**.
 Behind the lens as a Photographer 📸 and fueled by a passion for creativity!
 
