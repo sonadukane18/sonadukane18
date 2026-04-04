@@ -15,6 +15,6 @@ What fascinates me isn’t just code or servers—it’s the **architectures and
 
 ⚡ A Bit More About Me..
 - I also create **technical content on Cloud, DevOps, AI, and Cybersecurity**, breaking down complex concepts into **clear, practical insights**.
-- Behind the lens as a Photographer 📸 and fueled by a passion for creativity & designing what I imagine! ✨
+- A Photographer 📸 fueled with the passion for creativity & designing! ✨
 
 📫 Reach me: dukanesona1868@gmail.com 
