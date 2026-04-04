@@ -14,7 +14,7 @@ What fascinates me isn’t just code or servers—it’s the **architectures and
 - Cloud & DevOps: AWS • Docker • Kubernetes • Terraform • Jenkins • CI/CD  
 
 ⚡ A Bit More About Me..
-I also create **technical content on Cloud, DevOps, AI, and Cybersecurity**, breaking down complex concepts into **clear, practical insights**.
-Behind the lens as a Photographer 📸 and fueled by a passion for creativity!
+- I also create **technical content on Cloud, DevOps, AI, and Cybersecurity**, breaking down complex concepts into **clear, practical insights**.
+- Behind the lens as a Photographer 📸 and fueled by a passion for creativity & designing what I imagine! ✨
 
 📫 Reach me: dukanesona1868@gmail.com 
