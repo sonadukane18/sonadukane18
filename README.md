@@ -4,8 +4,7 @@ What fascinates me isn’t just code or servers—it’s the **architectures and
 
 ⚙️ Current Focus
 - CI/CD pipelines & automation workflows that just work  
-- Containerized apps with **Docker & Kubernetes**  
-- Cloud infrastructure & deployments on **AWS**  
+- Cloud infrastructure & deployments on **AWS** with **Docker & Kubernetes**  
 - AI-driven pipelines & **security-aware systems**
 
 🧩 Tech Stack
