@@ -1,9 +1,9 @@
 Hey 👋, I’m Sona...
 
-What fascinates me isn’t just code or servers—it’s the **architectures and ecosystems** where they live.  
+What fascinates me isn’t just code or servers, it’s the **architectures and ecosystems** where they live.  
 
 ⚙️ Current Focus
-- CI/CD pipelines & automation workflows that just work  
+- CI/CD pipelines & automation workflows 
 - Cloud infrastructure & deployments on **AWS** with **Docker & Kubernetes**  
 - AI-driven pipelines & **security-aware systems**
 
