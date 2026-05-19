@@ -17,3 +17,5 @@ What fascinates me isn’t just code or servers, it’s the **architectures and 
 - A Photographer 📸 fueled with the passion for creativity & designing! ✨
 
 📫 Reach me: dukanesona1868@gmail.com 
+- Checkout My Work - https://youtube.com/playlist?list=PLc0Ry2RGqyrCIj65zjXGlpvGrLmG10uFK&si=17hs3F9rAD4FCx3I 
+
